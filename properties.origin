@@ -1,0 +1,4 @@
+const apiKey = there should be an OpenWeather API key here; 
+const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric";
+
+export { apiKey, apiUrl };
